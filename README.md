@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**Senior Software Engineer | Staff Engineer | Full Stack Architect** | Next.js, NestJS, GraphQL & AWS | Node.js | Drupal | **Málaga, Spain** 🇪🇸
+**Senior Software Engineer** | **Staff Engineer** | **Full Stack Architect** | **Next.js, NestJS, GraphQL & AWS** | **Node.js** | **Drupal** | **Málaga, Spain** 🇪🇸
 
 Writing about tech & AI at [Desainova](https://desainova.com)
 
