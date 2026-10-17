@@ -110,6 +110,19 @@ Contributions to this Astro social sharing component: bug fixes, feature enhance
 
 ---
 
+### [rtva-downloader](https://github.com/joseluismolina/rtva-downloader) 📺
+**Python CLI to download Canal Sur videos from m3u8 streams with ffmpeg**
+
+A command-line tool to download Canal Sur (RTVA) videos from m3u8 HLS streams using ffmpeg, without re-encoding.
+
+- **Tech:** Python, ffmpeg, HLS/m3u8
+- **Features:** Simple m3u8 URL input, no re-encoding (original quality), cross-platform (Linux, macOS, Windows)
+
+[![Python](https://img.shields.io/badge/Python-3.7+-3776AB?style=flat-square&logo=python)](https://github.com/joseluismolina/rtva-downloader)
+[![ffmpeg](https://img.shields.io/badge/ffmpeg-007808?style=flat-square&logo=ffmpeg)](https://github.com/joseluismolina/rtva-downloader)
+
+---
+
 ## 🌱 Currently Learning
 
 - **Agentic AI Patterns**: Building autonomous agents for complex task automation
