@@ -2,11 +2,11 @@
 
 <div align="center">
 
-**Full Stack Developer & Solutions Architect** | **AI-Augmented Builder** | **Málaga, Spain** 🇪🇸
+**Senior Software Engineer | Staff Engineer | Full Stack Architect** | Next.js, NestJS, GraphQL & AWS | Node.js | Drupal | **Málaga, Spain** 🇪🇸
 
 Writing about tech & AI at [Desainova](https://desainova.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/joseluismolina)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/jlmolinadiaz)
 [![Website](https://img.shields.io/badge/Website-desainova.com-00C7B7?style=flat-square&logo=google-chrome)](https://desainova.com)
 
 </div>
@@ -120,9 +120,9 @@ Contributions to this Astro social sharing component: bug fixes, feature enhance
 
 ## 📫 Connect With Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/joseluismolina) - Professional network
+- 💼 [LinkedIn](https://linkedin.com/in/jlmolinadiaz) - Professional network
 - 🌐 [Website](https://desainova.com) - Tech blog
-- 🐦 [Twitter/X](https://twitter.com/joseluismolina) - Tech thoughts
+- 🐦 [Twitter/X](https://x.com/JoseLuisMD) - Tech thoughts
 
 ---
 
